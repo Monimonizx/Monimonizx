@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Monimonizx
 - 👀 I’m interested in books, music, fashion and foodie.
-- 🌱 I’m currently learning Phyton
+- 🌱 I’m currently learning Phyton and CSS
 - 📫 How to reach me: Lauramonize72@gmail.com
 - 😄 Pronouns: She/her
 
